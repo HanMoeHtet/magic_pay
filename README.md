@@ -1,7 +1,7 @@
 # Magic Pay 
 Online payment app made with Laravel
 
-<a href="https://magicpay-by-hanmoehtet.herokuapp.com/">Demo</a>&nbsp;&nbsp;<a href="https://github.com/HanMoeHtet/magic_pay">Github</a>
+<a target="_blank" href="https://magicpay-by-hanmoehtet.herokuapp.com/">Demo</a>&nbsp;&nbsp;<a target="_blank" href="https://github.com/HanMoeHtet/magic_pay">Github</a>
 
 ## Get Started
 
